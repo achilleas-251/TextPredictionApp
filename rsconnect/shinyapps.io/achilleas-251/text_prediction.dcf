@@ -1,0 +1,12 @@
+name: text_prediction
+title: text_prediction
+username:
+account: achilleas-251
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1770913
+bundleId: 2797430
+url: https://achilleas-251.shinyapps.io/text_prediction/
+when: 1581585993.90079
+asMultiple: FALSE
+asStatic: FALSE
